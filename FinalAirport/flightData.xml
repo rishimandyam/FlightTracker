@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <flight company="Spirit Airlines" id="8578">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>9:41</time>
+    </flight>
+    <flight company="British Airways" id="6287">
+        <isArrival>true</isArrival>
+        <airport>AUG</airport>
+        <time>16:49</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="6014">
+        <isArrival>true</isArrival>
+        <airport>FAT</airport>
+        <time>0:52</time>
+    </flight>
+    <flight company="Frontier" id="4512">
+        <isArrival>true</isArrival>
+        <airport>DAB</airport>
+        <time>11:12</time>
+    </flight>
+    <flight company="Frontier" id="0813">
+        <isArrival>true</isArrival>
+        <airport>DET</airport>
+        <time>19:51</time>
+    </flight>
+    <flight company="American Airlines" id="2716">
+        <isArrival>true</isArrival>
+        <airport>SAN</airport>
+        <time>4:50</time>
+    </flight>
+    <flight company="Delta Air Lines" id="5987">
+        <isArrival>true</isArrival>
+        <airport>CLT</airport>
+        <time>17:52</time>
+    </flight>
+    <flight company="British Airways" id="9366">
+        <isArrival>true</isArrival>
+        <airport>ABQ</airport>
+        <time>19:0</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="2364">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>18:41</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="5552">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>4:27</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="3173">
+        <isArrival>true</isArrival>
+        <airport>HST</airport>
+        <time>1:36</time>
+    </flight>
+    <flight company="United Airlines" id="4395">
+        <isArrival>true</isArrival>
+        <airport>JFK</airport>
+        <time>5:16</time>
+    </flight>
+    <flight company="Delta Air Lines" id="3575">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>23:41</time>
+    </flight>
+    <flight company="Alaska Airlines" id="1816">
+        <isArrival>true</isArrival>
+        <airport>JPN</airport>
+        <time>3:26</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="7743">
+        <isArrival>true</isArrival>
+        <airport>DFW</airport>
+        <time>13:31</time>
+    </flight>
+    <flight company="British Airways" id="9999">
+        <isArrival>true</isArrival>
+        <airport>DFW</airport>
+        <time>1:40</time>
+    </flight>
+    <flight company="Frontier" id="0338">
+        <isArrival>true</isArrival>
+        <airport>DEN</airport>
+        <time>2:59</time>
+    </flight>
+    <flight company="JetBlue Airways" id="4371">
+        <isArrival>true</isArrival>
+        <airport>AUG</airport>
+        <time>15:37</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="1988">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>10:7</time>
+    </flight>
+    <flight company="Alaska Airlines" id="5196">
+        <isArrival>true</isArrival>
+        <airport>JPN</airport>
+        <time>5:45</time>
+    </flight>
+    <flight company="Frontier" id="8226">
+        <isArrival>true</isArrival>
+        <airport>DAB</airport>
+        <time>4:58</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="3204">
+        <isArrival>true</isArrival>
+        <airport>ALB</airport>
+        <time>15:2</time>
+    </flight>
+    <flight company="Alaska Airlines" id="7531">
+        <isArrival>true</isArrival>
+        <airport>JPN</airport>
+        <time>3:17</time>
+    </flight>
+    <flight company="American Airlines" id="3852">
+        <isArrival>true</isArrival>
+        <airport>JPN</airport>
+        <time>21:57</time>
+    </flight>
+    <flight company="Alaska Airlines" id="0811">
+        <isArrival>true</isArrival>
+        <airport>DFW</airport>
+        <time>2:29</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="5448">
+        <isArrival>true</isArrival>
+        <airport>ABQ</airport>
+        <time>22:1</time>
+    </flight>
+    <flight company="JetBlue Airways" id="0698">
+        <isArrival>true</isArrival>
+        <airport>PHX</airport>
+        <time>2:23</time>
+    </flight>
+    <flight company="Frontier" id="6433">
+        <isArrival>true</isArrival>
+        <airport>AUG</airport>
+        <time>3:10</time>
+    </flight>
+    <flight company="Delta Air Lines" id="7625">
+        <isArrival>true</isArrival>
+        <airport>ATL</airport>
+        <time>18:23</time>
+    </flight>
+    <flight company="Frontier" id="3450">
+        <isArrival>true</isArrival>
+        <airport>ATL</airport>
+        <time>13:4</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="7430">
+        <isArrival>true</isArrival>
+        <airport>DEN</airport>
+        <time>21:26</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="5008">
+        <isArrival>true</isArrival>
+        <airport>JFK</airport>
+        <time>21:0</time>
+    </flight>
+    <flight company="British Airways" id="7858">
+        <isArrival>true</isArrival>
+        <airport>FAT</airport>
+        <time>10:31</time>
+    </flight>
+    <flight company="Alaska Airlines" id="7305">
+        <isArrival>true</isArrival>
+        <airport>SJC</airport>
+        <time>2:31</time>
+    </flight>
+    <flight company="Southwest Airlines" id="0425">
+        <isArrival>true</isArrival>
+        <airport>SAN</airport>
+        <time>22:10</time>
+    </flight>
+    <flight company="Frontier" id="6749">
+        <isArrival>true</isArrival>
+        <airport>LAS</airport>
+        <time>19:18</time>
+    </flight>
+    <flight company="Southwest Airlines" id="1128">
+        <isArrival>true</isArrival>
+        <airport>MCO</airport>
+        <time>4:52</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="1761">
+        <isArrival>true</isArrival>
+        <airport>JFK</airport>
+        <time>20:29</time>
+    </flight>
+    <flight company="Southwest Airlines" id="4440">
+        <isArrival>true</isArrival>
+        <airport>MSN</airport>
+        <time>23:0</time>
+    </flight>
+    <flight company="Turkish Airlines" id="6728">
+        <isArrival>true</isArrival>
+        <airport>DAB</airport>
+        <time>16:2</time>
+    </flight>
+    <flight company="British Airways" id="8494">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>15:0</time>
+    </flight>
+    <flight company="Delta Air Lines" id="3489">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>13:53</time>
+    </flight>
+    <flight company="Delta Air Lines" id="8126">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>17:39</time>
+    </flight>
+    <flight company="Frontier" id="9268">
+        <isArrival>true</isArrival>
+        <airport>DET</airport>
+        <time>20:24</time>
+    </flight>
+    <flight company="Frontier" id="2837">
+        <isArrival>true</isArrival>
+        <airport>JFK</airport>
+        <time>3:43</time>
+    </flight>
+    <flight company="British Airways" id="8240">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>15:13</time>
+    </flight>
+    <flight company="United Airlines" id="0114">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>0:4</time>
+    </flight>
+    <flight company="Delta Air Lines" id="5378">
+        <isArrival>true</isArrival>
+        <airport>BUR</airport>
+        <time>9:21</time>
+    </flight>
+    <flight company="JetBlue Airways" id="5483">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>2:4</time>
+    </flight>
+    <flight company="British Airways" id="6518">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>9:10</time>
+    </flight>
+    <flight company="Air India" id="7446">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>10:1</time>
+    </flight>
+    <flight company="Southwest Airlines" id="5274">
+        <isArrival>true</isArrival>
+        <airport>SJC</airport>
+        <time>18:28</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="6314">
+        <isArrival>true</isArrival>
+        <airport>SJC</airport>
+        <time>8:20</time>
+    </flight>
+    <flight company="American Airlines" id="2418">
+        <isArrival>true</isArrival>
+        <airport>DFW</airport>
+        <time>11:26</time>
+    </flight>
+    <flight company="Turkish Airlines" id="9617">
+        <isArrival>true</isArrival>
+        <airport>ORD</airport>
+        <time>21:24</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="0530">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>2:41</time>
+    </flight>
+    <flight company="Turkish Airlines" id="7403">
+        <isArrival>true</isArrival>
+        <airport>ALB</airport>
+        <time>18:33</time>
+    </flight>
+    <flight company="Frontier" id="4139">
+        <isArrival>true</isArrival>
+        <airport>DET</airport>
+        <time>16:23</time>
+    </flight>
+    <flight company="JetBlue Airways" id="7932">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>8:34</time>
+    </flight>
+    <flight company="United Airlines" id="5617">
+        <isArrival>true</isArrival>
+        <airport>ALB</airport>
+        <time>22:8</time>
+    </flight>
+    <flight company="Delta Air Lines" id="9421">
+        <isArrival>true</isArrival>
+        <airport>BUR</airport>
+        <time>13:49</time>
+    </flight>
+    <flight company="American Airlines" id="6376">
+        <isArrival>true</isArrival>
+        <airport>ABQ</airport>
+        <time>19:29</time>
+    </flight>
+    <flight company="Air India" id="9004">
+        <isArrival>true</isArrival>
+        <airport>ATL</airport>
+        <time>13:20</time>
+    </flight>
+    <flight company="Turkish Airlines" id="8928">
+        <isArrival>true</isArrival>
+        <airport>SAN</airport>
+        <time>14:7</time>
+    </flight>
+    <flight company="Frontier" id="4820">
+        <isArrival>true</isArrival>
+        <airport>JFK</airport>
+        <time>19:11</time>
+    </flight>
+    <flight company="Spirit Airlines" id="7868">
+        <isArrival>true</isArrival>
+        <airport>HST</airport>
+        <time>7:42</time>
+    </flight>
+    <flight company="Frontier" id="4158">
+        <isArrival>true</isArrival>
+        <airport>SAN</airport>
+        <time>12:34</time>
+    </flight>
+    <flight company="Air India" id="0925">
+        <isArrival>true</isArrival>
+        <airport>FAT</airport>
+        <time>1:25</time>
+    </flight>
+    <flight company="Air India" id="5412">
+        <isArrival>true</isArrival>
+        <airport>HST</airport>
+        <time>21:59</time>
+    </flight>
+    <flight company="British Airways" id="6656">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>19:16</time>
+    </flight>
+    <flight company="British Airways" id="1079">
+        <isArrival>true</isArrival>
+        <airport>ATL</airport>
+        <time>15:44</time>
+    </flight>
+    <flight company="United Airlines" id="2273">
+        <isArrival>true</isArrival>
+        <airport>BUR</airport>
+        <time>9:9</time>
+    </flight>
+    <flight company="Frontier" id="3936">
+        <isArrival>true</isArrival>
+        <airport>DAB</airport>
+        <time>15:4</time>
+    </flight>
+    <flight company="American Airlines" id="2542">
+        <isArrival>true</isArrival>
+        <airport>PNS</airport>
+        <time>22:32</time>
+    </flight>
+    <flight company="British Airways" id="7223">
+        <isArrival>true</isArrival>
+        <airport>ALB</airport>
+        <time>6:29</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="8426">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>3:47</time>
+    </flight>
+    <flight company="Turkish Airlines" id="7193">
+        <isArrival>true</isArrival>
+        <airport>JFK</airport>
+        <time>10:50</time>
+    </flight>
+    <flight company="United Airlines" id="9655">
+        <isArrival>true</isArrival>
+        <airport>ORD</airport>
+        <time>6:22</time>
+    </flight>
+    <flight company="Southwest Airlines" id="6504">
+        <isArrival>true</isArrival>
+        <airport>ATL</airport>
+        <time>9:49</time>
+    </flight>
+    <flight company="Air India" id="9294">
+        <isArrival>true</isArrival>
+        <airport>PHX</airport>
+        <time>6:7</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="7488">
+        <isArrival>true</isArrival>
+        <airport>FAT</airport>
+        <time>19:6</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="4108">
+        <isArrival>true</isArrival>
+        <airport>MSN</airport>
+        <time>3:49</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="7130">
+        <isArrival>true</isArrival>
+        <airport>HST</airport>
+        <time>0:3</time>
+    </flight>
+    <flight company="JetBlue Airways" id="2410">
+        <isArrival>true</isArrival>
+        <airport>DET</airport>
+        <time>7:49</time>
+    </flight>
+    <flight company="Frontier" id="1105">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>4:13</time>
+    </flight>
+    <flight company="JetBlue Airways" id="1430">
+        <isArrival>true</isArrival>
+        <airport>BUF</airport>
+        <time>21:17</time>
+    </flight>
+    <flight company="Turkish Airlines" id="8591">
+        <isArrival>true</isArrival>
+        <airport>DFW</airport>
+        <time>23:14</time>
+    </flight>
+    <flight company="JetBlue Airways" id="3928">
+        <isArrival>true</isArrival>
+        <airport>ALB</airport>
+        <time>6:59</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="3770">
+        <isArrival>true</isArrival>
+        <airport>JPN</airport>
+        <time>21:9</time>
+    </flight>
+    <flight company="Spirit Airlines" id="6168">
+        <isArrival>true</isArrival>
+        <airport>PHX</airport>
+        <time>20:2</time>
+    </flight>
+    <flight company="American Airlines" id="1412">
+        <isArrival>true</isArrival>
+        <airport>DFW</airport>
+        <time>8:27</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="6238">
+        <isArrival>true</isArrival>
+        <airport>LAS</airport>
+        <time>20:0</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="9573">
+        <isArrival>true</isArrival>
+        <airport>SJC</airport>
+        <time>12:37</time>
+    </flight>
+    <flight company="American Airlines" id="8447">
+        <isArrival>true</isArrival>
+        <airport>ORD</airport>
+        <time>20:38</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="4389">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>18:4</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="6338">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>2:28</time>
+    </flight>
+    <flight company="Frontier" id="4682">
+        <isArrival>true</isArrival>
+        <airport>DAB</airport>
+        <time>10:21</time>
+    </flight>
+    <flight company="Air India" id="1790">
+        <isArrival>true</isArrival>
+        <airport>LAS</airport>
+        <time>23:57</time>
+    </flight>
+    <flight company="Frontier" id="2613">
+        <isArrival>true</isArrival>
+        <airport>MSN</airport>
+        <time>7:26</time>
+    </flight>
+    <flight company="Delta Air Lines" id="4450">
+        <isArrival>true</isArrival>
+        <airport>LAX</airport>
+        <time>1:24</time>
+    </flight>
+    <flight company="Air India" id="5752">
+        <isArrival>false</isArrival>
+        <airport>LAX</airport>
+        <time>1:35</time>
+    </flight>
+    <flight company="JetBlue Airways" id="8349">
+        <isArrival>false</isArrival>
+        <airport>ATL</airport>
+        <time>16:31</time>
+    </flight>
+    <flight company="Air India" id="6580">
+        <isArrival>false</isArrival>
+        <airport>SAN</airport>
+        <time>14:25</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="3867">
+        <isArrival>false</isArrival>
+        <airport>DAB</airport>
+        <time>10:35</time>
+    </flight>
+    <flight company="Delta Air Lines" id="7931">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>19:19</time>
+    </flight>
+    <flight company="Delta Air Lines" id="8983">
+        <isArrival>false</isArrival>
+        <airport>MSN</airport>
+        <time>21:35</time>
+    </flight>
+    <flight company="British Airways" id="0920">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>8:17</time>
+    </flight>
+    <flight company="British Airways" id="2924">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>15:25</time>
+    </flight>
+    <flight company="Turkish Airlines" id="8588">
+        <isArrival>false</isArrival>
+        <airport>DAB</airport>
+        <time>19:34</time>
+    </flight>
+    <flight company="British Airways" id="1948">
+        <isArrival>false</isArrival>
+        <airport>DEN</airport>
+        <time>13:34</time>
+    </flight>
+    <flight company="JetBlue Airways" id="5745">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>23:5</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="1140">
+        <isArrival>false</isArrival>
+        <airport>LAX</airport>
+        <time>19:36</time>
+    </flight>
+    <flight company="Spirit Airlines" id="5045">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>11:55</time>
+    </flight>
+    <flight company="Spirit Airlines" id="4678">
+        <isArrival>false</isArrival>
+        <airport>AUG</airport>
+        <time>22:29</time>
+    </flight>
+    <flight company="Southwest Airlines" id="8179">
+        <isArrival>false</isArrival>
+        <airport>CLT</airport>
+        <time>4:45</time>
+    </flight>
+    <flight company="JetBlue Airways" id="6684">
+        <isArrival>false</isArrival>
+        <airport>BUR</airport>
+        <time>13:55</time>
+    </flight>
+    <flight company="Air India" id="1799">
+        <isArrival>false</isArrival>
+        <airport>JFK</airport>
+        <time>18:16</time>
+    </flight>
+    <flight company="American Airlines" id="4964">
+        <isArrival>false</isArrival>
+        <airport>LAX</airport>
+        <time>3:3</time>
+    </flight>
+    <flight company="Alaska Airlines" id="6240">
+        <isArrival>false</isArrival>
+        <airport>ABQ</airport>
+        <time>22:54</time>
+    </flight>
+    <flight company="Frontier" id="2044">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>9:8</time>
+    </flight>
+    <flight company="JetBlue Airways" id="3947">
+        <isArrival>false</isArrival>
+        <airport>DET</airport>
+        <time>4:29</time>
+    </flight>
+    <flight company="Delta Air Lines" id="3551">
+        <isArrival>false</isArrival>
+        <airport>ALB</airport>
+        <time>20:49</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="2755">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>9:36</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="5242">
+        <isArrival>false</isArrival>
+        <airport>AUG</airport>
+        <time>19:13</time>
+    </flight>
+    <flight company="Spirit Airlines" id="6091">
+        <isArrival>false</isArrival>
+        <airport>SJC</airport>
+        <time>11:39</time>
+    </flight>
+    <flight company="Southwest Airlines" id="1159">
+        <isArrival>false</isArrival>
+        <airport>LAS</airport>
+        <time>0:11</time>
+    </flight>
+    <flight company="Delta Air Lines" id="0584">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>10:47</time>
+    </flight>
+    <flight company="British Airways" id="5063">
+        <isArrival>false</isArrival>
+        <airport>HST</airport>
+        <time>15:50</time>
+    </flight>
+    <flight company="United Airlines" id="5212">
+        <isArrival>false</isArrival>
+        <airport>DET</airport>
+        <time>18:24</time>
+    </flight>
+    <flight company="British Airways" id="8110">
+        <isArrival>false</isArrival>
+        <airport>ABQ</airport>
+        <time>9:46</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="1795">
+        <isArrival>false</isArrival>
+        <airport>FAT</airport>
+        <time>22:21</time>
+    </flight>
+    <flight company="British Airways" id="2668">
+        <isArrival>false</isArrival>
+        <airport>ORD</airport>
+        <time>12:10</time>
+    </flight>
+    <flight company="British Airways" id="7717">
+        <isArrival>false</isArrival>
+        <airport>LAS</airport>
+        <time>8:50</time>
+    </flight>
+    <flight company="Southwest Airlines" id="1612">
+        <isArrival>false</isArrival>
+        <airport>DEN</airport>
+        <time>6:4</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="4773">
+        <isArrival>false</isArrival>
+        <airport>AUG</airport>
+        <time>8:57</time>
+    </flight>
+    <flight company="Delta Air Lines" id="2797">
+        <isArrival>false</isArrival>
+        <airport>JFK</airport>
+        <time>9:51</time>
+    </flight>
+    <flight company="Spirit Airlines" id="3399">
+        <isArrival>false</isArrival>
+        <airport>DEN</airport>
+        <time>20:40</time>
+    </flight>
+    <flight company="American Airlines" id="5641">
+        <isArrival>false</isArrival>
+        <airport>PNS</airport>
+        <time>1:3</time>
+    </flight>
+    <flight company="Delta Air Lines" id="2876">
+        <isArrival>false</isArrival>
+        <airport>AUG</airport>
+        <time>20:26</time>
+    </flight>
+    <flight company="Turkish Airlines" id="8991">
+        <isArrival>false</isArrival>
+        <airport>MSN</airport>
+        <time>10:3</time>
+    </flight>
+    <flight company="American Airlines" id="3380">
+        <isArrival>false</isArrival>
+        <airport>LAX</airport>
+        <time>16:12</time>
+    </flight>
+    <flight company="American Airlines" id="9689">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>23:3</time>
+    </flight>
+    <flight company="Air India" id="0930">
+        <isArrival>false</isArrival>
+        <airport>BUR</airport>
+        <time>13:33</time>
+    </flight>
+    <flight company="British Airways" id="7453">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>13:8</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="8547">
+        <isArrival>false</isArrival>
+        <airport>SAN</airport>
+        <time>11:36</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="7854">
+        <isArrival>false</isArrival>
+        <airport>HST</airport>
+        <time>15:21</time>
+    </flight>
+    <flight company="Delta Air Lines" id="2012">
+        <isArrival>false</isArrival>
+        <airport>DEN</airport>
+        <time>13:30</time>
+    </flight>
+    <flight company="British Airways" id="3511">
+        <isArrival>false</isArrival>
+        <airport>DET</airport>
+        <time>13:42</time>
+    </flight>
+    <flight company="JetBlue Airways" id="3484">
+        <isArrival>false</isArrival>
+        <airport>LAS</airport>
+        <time>16:20</time>
+    </flight>
+    <flight company="United Airlines" id="2501">
+        <isArrival>false</isArrival>
+        <airport>DAB</airport>
+        <time>15:46</time>
+    </flight>
+    <flight company="Southwest Airlines" id="0038">
+        <isArrival>false</isArrival>
+        <airport>CLT</airport>
+        <time>19:14</time>
+    </flight>
+    <flight company="Southwest Airlines" id="1686">
+        <isArrival>false</isArrival>
+        <airport>LAS</airport>
+        <time>20:19</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="3372">
+        <isArrival>false</isArrival>
+        <airport>HST</airport>
+        <time>14:42</time>
+    </flight>
+    <flight company="Frontier" id="7258">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>10:14</time>
+    </flight>
+    <flight company="British Airways" id="5584">
+        <isArrival>false</isArrival>
+        <airport>DFW</airport>
+        <time>19:31</time>
+    </flight>
+    <flight company="JetBlue Airways" id="2140">
+        <isArrival>false</isArrival>
+        <airport>ATL</airport>
+        <time>5:21</time>
+    </flight>
+    <flight company="United Airlines" id="6533">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>3:18</time>
+    </flight>
+    <flight company="Air India" id="6924">
+        <isArrival>false</isArrival>
+        <airport>PHX</airport>
+        <time>6:49</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="8864">
+        <isArrival>false</isArrival>
+        <airport>JPN</airport>
+        <time>2:26</time>
+    </flight>
+    <flight company="United Airlines" id="2845">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>4:17</time>
+    </flight>
+    <flight company="United Airlines" id="8762">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>12:14</time>
+    </flight>
+    <flight company="Spirit Airlines" id="7124">
+        <isArrival>false</isArrival>
+        <airport>ABQ</airport>
+        <time>23:22</time>
+    </flight>
+    <flight company="Southwest Airlines" id="2517">
+        <isArrival>false</isArrival>
+        <airport>SAN</airport>
+        <time>8:22</time>
+    </flight>
+    <flight company="United Airlines" id="3946">
+        <isArrival>false</isArrival>
+        <airport>SJC</airport>
+        <time>21:47</time>
+    </flight>
+    <flight company="United Airlines" id="6174">
+        <isArrival>false</isArrival>
+        <airport>HST</airport>
+        <time>17:53</time>
+    </flight>
+    <flight company="Alaska Airlines" id="3581">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>8:11</time>
+    </flight>
+    <flight company="Alaska Airlines" id="7726">
+        <isArrival>false</isArrival>
+        <airport>JPN</airport>
+        <time>0:33</time>
+    </flight>
+    <flight company="Frontier" id="4422">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>6:46</time>
+    </flight>
+    <flight company="Spirit Airlines" id="4273">
+        <isArrival>false</isArrival>
+        <airport>JPN</airport>
+        <time>1:16</time>
+    </flight>
+    <flight company="Turkish Airlines" id="7283">
+        <isArrival>false</isArrival>
+        <airport>AUG</airport>
+        <time>1:2</time>
+    </flight>
+    <flight company="JetBlue Airways" id="6215">
+        <isArrival>false</isArrival>
+        <airport>SAN</airport>
+        <time>18:38</time>
+    </flight>
+    <flight company="Turkish Airlines" id="0715">
+        <isArrival>false</isArrival>
+        <airport>JPN</airport>
+        <time>10:2</time>
+    </flight>
+    <flight company="Air India" id="6484">
+        <isArrival>false</isArrival>
+        <airport>ATL</airport>
+        <time>16:17</time>
+    </flight>
+    <flight company="Turkish Airlines" id="8613">
+        <isArrival>false</isArrival>
+        <airport>SAN</airport>
+        <time>7:4</time>
+    </flight>
+    <flight company="Alaska Airlines" id="5474">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>23:24</time>
+    </flight>
+    <flight company="Turkish Airlines" id="7943">
+        <isArrival>false</isArrival>
+        <airport>BUR</airport>
+        <time>7:46</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="2352">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>1:50</time>
+    </flight>
+    <flight company="Air India" id="3225">
+        <isArrival>false</isArrival>
+        <airport>ABQ</airport>
+        <time>19:25</time>
+    </flight>
+    <flight company="Turkish Airlines" id="9638">
+        <isArrival>false</isArrival>
+        <airport>SAN</airport>
+        <time>19:43</time>
+    </flight>
+    <flight company="Turkish Airlines" id="6438">
+        <isArrival>false</isArrival>
+        <airport>MSN</airport>
+        <time>8:26</time>
+    </flight>
+    <flight company="Southwest Airlines" id="0325">
+        <isArrival>false</isArrival>
+        <airport>MSN</airport>
+        <time>17:4</time>
+    </flight>
+    <flight company="Air India" id="4187">
+        <isArrival>false</isArrival>
+        <airport>SJC</airport>
+        <time>14:24</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="7254">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>1:20</time>
+    </flight>
+    <flight company="American Airlines" id="9196">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>5:23</time>
+    </flight>
+    <flight company="Spirit Airlines" id="9663">
+        <isArrival>false</isArrival>
+        <airport>LAS</airport>
+        <time>13:51</time>
+    </flight>
+    <flight company="Spirit Airlines" id="7329">
+        <isArrival>false</isArrival>
+        <airport>LAX</airport>
+        <time>4:18</time>
+    </flight>
+    <flight company="Turkish Airlines" id="5345">
+        <isArrival>false</isArrival>
+        <airport>PNS</airport>
+        <time>10:37</time>
+    </flight>
+    <flight company="British Airways" id="5503">
+        <isArrival>false</isArrival>
+        <airport>HST</airport>
+        <time>2:7</time>
+    </flight>
+    <flight company="Frontier" id="8729">
+        <isArrival>false</isArrival>
+        <airport>ABQ</airport>
+        <time>6:1</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="9523">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>11:52</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="7482">
+        <isArrival>false</isArrival>
+        <airport>DFW</airport>
+        <time>14:34</time>
+    </flight>
+    <flight company="Air India" id="4787">
+        <isArrival>false</isArrival>
+        <airport>DET</airport>
+        <time>15:6</time>
+    </flight>
+    <flight company="Turkish Airlines" id="2007">
+        <isArrival>false</isArrival>
+        <airport>SJC</airport>
+        <time>0:43</time>
+    </flight>
+    <flight company="British Airways" id="1434">
+        <isArrival>false</isArrival>
+        <airport>DAB</airport>
+        <time>4:16</time>
+    </flight>
+    <flight company=" Allegiant Airlines" id="3178">
+        <isArrival>false</isArrival>
+        <airport>ORD</airport>
+        <time>18:35</time>
+    </flight>
+    <flight company="American Airlines" id="4564">
+        <isArrival>false</isArrival>
+        <airport>BUF</airport>
+        <time>14:44</time>
+    </flight>
+    <flight company="American Airlines" id="1039">
+        <isArrival>false</isArrival>
+        <airport>DAB</airport>
+        <time>1:43</time>
+    </flight>
+    <flight company="American Airlines" id="7517">
+        <isArrival>false</isArrival>
+        <airport>MCO</airport>
+        <time>23:6</time>
+    </flight>
+    <flight company="Hawaiian Airlines" id="2935">
+        <isArrival>false</isArrival>
+        <airport>CLT</airport>
+        <time>18:26</time>
+    </flight>
+    <flight company="Delta Air Lines" id="0814">
+        <isArrival>false</isArrival>
+        <airport>JFK</airport>
+        <time>14:28</time>
+    </flight>
+</data>
